@@ -12,8 +12,3 @@ ProjectF is a small Java-based desktop application that connects to an SQL datab
 - Built with **Java** using **Maven**
 - Uses **SQL** for persistent storage
 - Includes a modular project structure with clear separation of concerns
-
----
-
-## 📁 Project Structure
-
